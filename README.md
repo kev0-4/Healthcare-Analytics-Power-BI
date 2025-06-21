@@ -6,11 +6,11 @@ A comprehensive Power BI dashboard for tracking and analyzing patient waiting li
 
 ### Summary Page
 
-![Dashboard Summary](Dashboard_summary.png)
+![Dashboard Summary](Dashboard_Summary.png)
 
 ### Detailed Analysis Page
 
-![Dashboard Details](Dashboard_Details.png)
+![Dashboard Details](dashboard_Details.png)
 
 ## 🎯 Project Objectives
 
